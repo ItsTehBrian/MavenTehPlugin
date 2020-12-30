@@ -1,4 +1,7 @@
-# MavenTehPlugin
+# ARCHIVED
+Please just use the Minecraft Development Plugin for IntelliJ rather than this. Thanks.
+
+## MavenTehPlugin
 Boilerplate code for any Spigot-based plugin, built with Maven.
 
 If you're looking for one built with Gradle, [click here](https://github.com/ItsTehBrian/GradleTehPlugin).
